@@ -1,0 +1,12 @@
+// Use existing schedules to build your own semester's schedule. Make sure to get the spacing right.
+{
+"semester": "Γ",
+"schedule": "      Ω       |  Δ  |  Τ  |  Τ  |  Π  |  Π \
+             09:00 - 11:00 |  Σ  |     |     |     | Α Π \
+             11:00 - 13:00 |  Σ  | Α Π |     |  Κ  | Α Π \
+             13:00 - 15:00 |  Σ  |     | Δ Π |  Σ  | Θ Π \
+             15:00 - 17:00 |     | Α Υ |     |     | \
+             17:00 - 19:00 |  Κ  | Θ Π |  Κ  |  Κ  | \
+             19:00 - 21:00 |     | ΕΑΥ | ΕΑΥ | Δ Π |"
+"author": "Vuxxs"
+}
