@@ -1,3 +1,3 @@
 {
-message "There are currently no active exams."
+msg: "There are currently no active exams."
 }
