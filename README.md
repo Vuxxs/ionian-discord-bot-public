@@ -2,7 +2,7 @@
 
 ## Request university commands access
 
-[<img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="200" height="200"/>](https://discord.gg/uEypK8E)
+[<img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="124" height="124"/>](https://discord.gg/uEypK8E)
 
 ## Building
 
