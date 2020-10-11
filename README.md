@@ -1,8 +1,11 @@
 # ionian-discord-bot-public
 
+## Add the bot to your server.
+[<img src="https://i.imgur.com/RUsiygX.png" width="62" height="62"/>](https://github.com/Vuxxs/ionian-discord-bot-public)
+
 ## Request university commands access
 
-[<img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="124" height="124"/>](https://discord.gg/uEypK8E)
+[<img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="62" height="62"/>](https://discord.gg/uEypK8E)
 
 ## Building
 
