@@ -1,7 +1,7 @@
 # ionian-discord-bot-public
 
 ## Add the bot to your server.
-[<img src="https://i.imgur.com/RUsiygX.png" width="62" height="62"/>](https://github.com/Vuxxs/ionian-discord-bot-public)
+[<img src="https://i.imgur.com/RUsiygX.png" width="62" height="62"/>](https://discord.com/api/oauth2/authorize?client_id=746639303899349043&permissions=0&scope=bot)
 
 ## Request university commands access
 
