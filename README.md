@@ -9,7 +9,7 @@
 
 ## Building
 
-You will need any IDE of your choice and minor knowledge in JavaScript.
+You will need any IDE of your choice and little to none knowledge in JavaScript.
 
 ## Contributing
 
