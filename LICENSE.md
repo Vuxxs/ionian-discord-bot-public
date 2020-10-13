@@ -1,10 +1,5 @@
 # DON'T BE A DICK PUBLIC LICENSE
 
-> Version 1.1, December 2016
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document.
-
 > DON'T BE A DICK PUBLIC LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
