@@ -5,7 +5,7 @@
 
 ## Request university commands access
 
-[<img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="62" height="62"/>](https://discord.gg/uEypK8E)
+[Ionian Bot - Official Server](https://discord.gg/uEypK8E)
 
 ## Building
 
