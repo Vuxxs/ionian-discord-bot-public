@@ -7,12 +7,12 @@
 
 [Ionian Bot - Official Server](https://discord.gg/uEypK8E)
 
-## Building
-
-You will need any IDE of your choice and little to none knowledge in JavaScript.
-
 ## Contributing
 
-- Add or update info carried by the bot. You may only tamper with the info folder.
-- Fork the repository and create pull requests to make updates.
-- Try to keep your code clean AKA get the spacing right.
+### Adding your own pictures 
+
+- Make sure your image quality is decent; Convert the PDFs directly to images.
+
+### Adding your own links
+
+- Follow the running format.
